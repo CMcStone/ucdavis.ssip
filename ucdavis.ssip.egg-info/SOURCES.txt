@@ -10,4 +10,4 @@ ucdavis.ssip.egg-info/namespace_packages.txt
 ucdavis.ssip.egg-info/not-zip-safe
 ucdavis.ssip.egg-info/requires.txt
 ucdavis.ssip.egg-info/top_level.txt
-ucdavis/ssi/__init__.py
+ucdavis/ssip/__init__.py

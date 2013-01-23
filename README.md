@@ -1,4 +1,4 @@
-ucdavis.ssi
+ucdavis.ssip
 =====================
 
 ssi skin

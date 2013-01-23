@@ -13,12 +13,12 @@ Released for free under a Creative Commons Attribution 2.5 License
 .header-bar-container {
 	width:100%;
 	padding-left: 30px;
-	background:#fff;
+	background:#E5E9EF;
 	}
 
 .header-bar {
 	height:90 px;
-	background:#fff;
+	background:#E5E9EF;
 /*	width:1000px; */
 	margin-top:0px;
 	margin-bottom:0px;
@@ -339,7 +339,7 @@ border-right: 0.1em solid white;
 color: white;
 }
 
-#portal-globalnav li.selected a i{
+#portal-globalnav li.selected a {
 height: 40px
 background-color: #002855;
 color: white;
